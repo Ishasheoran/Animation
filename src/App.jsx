@@ -6,7 +6,7 @@ function App() {
     <Navbar />
            <Carousel3D />
 <Footer />
-      {/* <div style={{ height: "0px" }}></div>  */}
+      {/* <div style={{ height: "210px" }}></div>  */}
       
     </>
   );

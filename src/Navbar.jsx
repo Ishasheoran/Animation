@@ -17,7 +17,7 @@ export function Footer(){
             <a href="https://tympanus.net/codrops/hub/tag/carousel/">#CAROUSEL</a>
             <a href="https://tympanus.net/codrops/hub/tag/page-transition/">#PAGE-TRANSITION</a>
         </div>
-        <p>Focus on your clients, leave hosting config to Cloudways. Get 50% OFF for 3 months + 50 Free Migrations.</p>
+        <p>FOCUS ON YOUR CLIENTS, LEAVE HOSTING CONFIG TO CLOUDWAYS. GET 50% OFF FOR 3 MONTHS + 50 FREE MIGRATIONS.</p>
     </div>
     </>)
 }

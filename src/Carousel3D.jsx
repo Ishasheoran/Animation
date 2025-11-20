@@ -53,7 +53,7 @@ const frame=[frm11,frm12,frm13,frm14,frm15,frm16];
 
    return (<>
     <div className="carousel-wrapper">
-      <a href="https://tympanus.net/Development/3DCarousel/"><h2>HAUTE COUTURE NIGHTS — PARIS</h2></a>
+    <h2>HAUTE COUTURE NIGHTS — PARIS</h2>
       <div
         className="carousel"
         style={{ transform: `translateZ(-300px) rotateY(${angle}deg)` }}
@@ -71,7 +71,7 @@ const frame=[frm11,frm12,frm13,frm14,frm15,frm16];
       </div>
     </div>
     <div className="carousel-wrapper">
-      <h2>Vogue Evolution — New York City</h2>
+      <h2>VOGUE EVOLUTION — NEW YORK CITY</h2>
       <div
         className="carousel"
         style={{ transform: `translateZ(-300px) rotateY(${angle}deg)` }}
@@ -88,7 +88,7 @@ const frame=[frm11,frm12,frm13,frm14,frm15,frm16];
       </div>
     </div>
     <div className="carousel-wrapper">
-      <h2>Glamour in the Desert — Dubai</h2>
+      <h2>GLAMOUR IN THE DESERT — DUBAI</h2>
       <div
         className="carousel"
         style={{ transform: `translateZ(-300px) rotateY(${angle}deg)` }}
@@ -105,7 +105,7 @@ const frame=[frm11,frm12,frm13,frm14,frm15,frm16];
       </div>
     </div>
      <div className="carousel-wrapper">
-      <h2>Chic Couture Runway — Milan</h2>
+      <h2>CHIC COURTUR RUNWAY — MILAN</h2>
       <div
         className="carousel"
         style={{ transform: `translateZ(-300px) rotateY(${angle}deg)` }}
@@ -122,7 +122,7 @@ const frame=[frm11,frm12,frm13,frm14,frm15,frm16];
       </div>
     </div>
     <div className="carousel-wrapper">
-       <h2>Style Showcase — London</h2>
+       <h2>STYLE SHOWCASE — LONDON</h2>
       <div
         className="carousel"
         style={{ transform: `translateZ(-300px) rotateY(${angle}deg)` }}
@@ -139,7 +139,7 @@ const frame=[frm11,frm12,frm13,frm14,frm15,frm16];
       </div>
     </div>
         <div className="carousel-wrapper">
-          <h2>Future Fashion Forward — Tokyo</h2>
+          <h2>FUTURE FASHION FORWARD — TOKYO</h2>
       <div
         className="carousel"
         style={{ transform: `translateZ(-300px) rotateY(${angle}deg)` }}
