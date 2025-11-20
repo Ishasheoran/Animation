@@ -1,0 +1,24 @@
+.Navbar,.Footer{
+  position: fixed;
+  color: white;
+  display: flex;justify-content: space-between;align-items: center;
+  width: 99%;
+  z-index: 9999;   
+  pointer-events: auto;
+}
+.links{
+  display: flex;gap:20px;
+}
+a{
+  text-decoration: none;color: white;
+ 
+}
+a:hover{
+  text-decoration: underline;
+}
+.Footer p{
+width: 200px;text-align: right;
+}
+.Footer{
+  bottom: 0;
+}

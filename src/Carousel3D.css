@@ -1,0 +1,48 @@
+.carousel-wrapper {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  perspective: 1200px;
+   pointer-events: auto;
+}
+
+.carousel {
+  width: 300px;
+  height: 400px;
+  position: relative;
+  transform-style: preserve-3d;
+}
+
+.carousel-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 400px;
+  transform-style: preserve-3d;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px;
+}
+body{
+  background-color: black;height: max-content;
+  font-family: 'forma-djr-mono', sans-serif
+}
+h2{
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  font-weight: 100;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+  z-index: 10;
+  pointer-events: none; /* Important: scrolling still works */
+}
